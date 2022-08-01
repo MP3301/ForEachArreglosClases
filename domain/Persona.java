@@ -6,7 +6,7 @@ package domain;
 
 /**
  *
- * @author asosadjpasdijasixapoapxsasxas
+ * @author s
  */
 public class Persona {
 
