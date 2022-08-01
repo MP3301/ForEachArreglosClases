@@ -8,7 +8,7 @@ import domain.Persona;
 
 /**
  *
- * @author asosadjpasdijasixapoapxsasxas
+ * @author s
  */
 public class TestForEach {
     
